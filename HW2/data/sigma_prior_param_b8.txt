@@ -1,0 +1,90 @@
+Using default random seed
+Starting computation for 10 datasets each. ...
+
+Data generated with one component
+generating data with: (μ,σ) =  (0.54,1.77)
+Data maximum likelihood under one component model= 2.10533e-50
+Integrals by sampling= (2.86974e-47,3.4847e-47)  by summing: (4.86964e-47,4.44413e-47)
+
+generating data with: (μ,σ) =  (-6.09,3.31)
+Data maximum likelihood under one component model= 9.89764e-79
+Integrals by sampling= (3.90632e-63,2.07763e-63)  by summing: (1.33036e-62,7.25376e-63)
+
+generating data with: (μ,σ) =  (7.45,1.28)
+Data maximum likelihood under one component model= 8.68111e-38
+Integrals by sampling= (6.15645e-40,1.51181e-40)  by summing: (1.85435e-42,4.26722e-43)
+
+generating data with: (μ,σ) =  (-0.31,0.67)
+Data maximum likelihood under one component model= 2.35153e-27
+Integrals by sampling= (3.11421e-26,1.55194e-26)  by summing: (6.18802e-26,2.05859e-26)
+
+generating data with: (μ,σ) =  (-5.10,16.80)
+Data maximum likelihood under one component model= 8.09324e-148
+Integrals by sampling= (3.88149e-98,1.18791e-98)  by summing: (2.94588e-292,9.40418e-222)
+
+generating data with: (μ,σ) =  (-2.00,1.02)
+Data maximum likelihood under one component model= 6.99948e-32
+Integrals by sampling= (1.93272e-34,9.79503e-35)  by summing: (1.13523e-34,7.98828e-35)
+
+generating data with: (μ,σ) =  (1.93,0.47)
+Data maximum likelihood under one component model= 1.22045e-30
+Integrals by sampling= (3.33588e-21,8.78699e-22)  by summing: (1.8278e-21,5.57214e-22)
+
+generating data with: (μ,σ) =  (3.99,0.82)
+Data maximum likelihood under one component model= 8.41738e-29
+Integrals by sampling= (5.46518e-31,1.63044e-31)  by summing: (1.02613e-31,8.10165e-32)
+
+generating data with: (μ,σ) =  (1.68,2.86)
+Data maximum likelihood under one component model= 5.96771e-65
+Integrals by sampling= (2.12039e-55,1.11738e-55)  by summing: (3.32676e-57,1.80317e-56)
+
+generating data with: (μ,σ) =  (1.57,0.52)
+Data maximum likelihood under one component model= 1.89172e-34
+Integrals by sampling= (5.57008e-19,1.4819e-19)  by summing: (5.98855e-19,1.66147e-19)
+
+
+Data generated with two components
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.078; (-1.11,0.81); (-0.83,1.58)
+Data maximum likelihood under one component model= 1.21568e-43
+Integrals by sampling= (3.67729e-43,3.80473e-43)  by summing: (1.59737e-43,3.78366e-43)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.973; (-7.01,16.70); (-4.08,0.35)
+Data maximum likelihood under one component model= 2.81731e-139
+Integrals by sampling= (1.51819e-93,4.80423e-94)  by summing: (6.40443e-214,4.30908e-152)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  1.000; (-0.36,6.73); (-4.01,1.70)
+Data maximum likelihood under one component model= 3.88697e-106
+Integrals by sampling= (1.22397e-76,7.90941e-77)  by summing: (2.81159e-87,1.91093e-80)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.848; (-0.37,0.49); (3.72,1.93)
+Data maximum likelihood under one component model= 2.17927e-46
+Integrals by sampling= (7.20989e-45,3.44218e-34)  by summing: (4.08831e-45,5.57618e-34)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.965; (1.83,0.70); (1.04,0.60)
+Data maximum likelihood under one component model= 9.70322e-28
+Integrals by sampling= (1.2723e-24,4.49528e-25)  by summing: (1.44312e-24,4.92546e-25)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.129; (2.53,0.27); (-1.63,0.40)
+Data maximum likelihood under one component model= 3.01727e-42
+Integrals by sampling= (2.85121e-42,6.24806e-24)  by summing: (1.9025e-42,1.72523e-24)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.021; (1.07,0.37); (-1.71,0.31)
+Data maximum likelihood under one component model= 3.54213e-33
+Integrals by sampling= (1.31417e-19,5.38258e-15)  by summing: (1.32315e-19,1.18634e-14)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.877; (5.89,179.23); (0.94,0.32)
+Data maximum likelihood under one component model= 1.29031e-246
+Integrals by sampling= (8.55404e-148,5.53747e-140)  by summing: (0,0)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.424; (3.47,0.49); (-8.14,1.39)
+Data maximum likelihood under one component model= 5.08919e-98
+Integrals by sampling= (1.2049e-72,2.10019e-48)  by summing: (1.91715e-76,1.58303e-52)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.498; (7.12,0.80); (12.09,0.74)
+Data maximum likelihood under one component model= 1.86307e-62
+Integrals by sampling= (2.35758e-55,1.04597e-52)  by summing: (1.48488e-64,3.4342e-65)
+
+By sampling: Model1 data, correct selection 9/10
+             Model2 data, correct selection 7/10
+By summing:  Model1 data, correct selection 8/10
+             Model2 data, correct selection 8/10

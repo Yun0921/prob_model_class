@@ -1,0 +1,150 @@
+Using default random seed
+Starting computation for 10 datasets each. ...
+
+Data generated with one component
+generating data with: (μ,σ) =  (0.54,3.54)
+Data maximum likelihood:
+  One component model= 4.17992e-78
+  Two component model= 9.17161e-69
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (5.02185e-62,7.74168e-62)  by summing: (8.52966e-62,1.03785e-61)
+
+generating data with: (μ,σ) =  (-6.09,6.61)
+Data maximum likelihood:
+  One component model= 2.98583e-108
+  Two component model= 9.58698e-86
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (7.37763e-78,6.34887e-78)  by summing: (2.67894e-77,2.07663e-77)
+
+generating data with: (μ,σ) =  (7.45,2.57)
+Data maximum likelihood:
+  One component model= 7.69045e-63
+  Two component model= 5.49747e-76
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (1.10263e-54,4.17009e-55)  by summing: (7.80519e-55,1.85859e-55)
+
+generating data with: (μ,σ) =  (-0.31,1.35)
+Data maximum likelihood:
+  One component model= 1.19275e-40
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (5.53305e-41,4.45705e-41)  by summing: (6.13774e-41,4.86803e-41)
+
+generating data with: (μ,σ) =  (-5.10,33.59)
+Data maximum likelihood:
+  One component model= 6.73741e-178
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (5.69487e-113,1.83598e-113)  by summing: (1.77935e-308,1.33857e-272)
+
+generating data with: (μ,σ) =  (-2.00,2.05)
+Data maximum likelihood:
+  One component model= 4.32101e-54
+  Two component model= 3.14624e-215
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (3.41118e-49,2.73056e-49)  by summing: (3.55898e-49,2.74341e-49)
+
+generating data with: (μ,σ) =  (1.93,0.94)
+Data maximum likelihood:
+  One component model= 9.1332e-34
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (5.94765e-36,2.14752e-36)  by summing: (7.2981e-36,2.55215e-36)
+
+generating data with: (μ,σ) =  (3.99,1.64)
+Data maximum likelihood:
+  One component model= 7.03417e-48
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (9.71209e-46,4.18161e-46)  by summing: (7.90902e-46,4.03927e-46)
+
+generating data with: (μ,σ) =  (1.68,5.73)
+Data maximum likelihood:
+  One component model= 6.45165e-94
+  Two component model= 1.00132e-79
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (3.78519e-70,2.43755e-70)  by summing: (5.92864e-72,3.29609e-71)
+
+generating data with: (μ,σ) =  (1.57,1.04)
+Data maximum likelihood:
+  One component model= 2.52759e-31
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (9.86552e-34,3.4731e-34)  by summing: (1.47433e-33,4.76908e-34)
+
+
+Data generated with two components
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.078; (-1.11,1.63); (-0.83,3.15)
+Data maximum likelihood:
+  One component model= 3.29161e-70
+  Two component model= 3.71395e-62
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (6.588e-58,9.03338e-58)  by summing: (3.07579e-58,8.55344e-58)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.973; (-7.01,33.39); (-4.08,0.70)
+Data maximum likelihood:
+  One component model= 2.43364e-169
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (3.22556e-108,8.38046e-109)  by summing: (1.9803e-228,1.93393e-193)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  1.000; (-0.36,13.47); (-4.01,3.40)
+Data maximum likelihood:
+  One component model= 4.43903e-136
+  Two component model= 3.09805e-104
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (1.88234e-91,1.34671e-91)  by summing: (4.52553e-102,1.79347e-98)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.848; (-0.37,0.98); (3.72,3.86)
+Data maximum likelihood:
+  One component model= 1.85828e-55
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (6.69526e-50,6.19186e-44)  by summing: (5.90075e-50,7.06807e-44)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.965; (1.83,1.40); (1.04,1.19)
+Data maximum likelihood:
+  One component model= 2.73264e-38
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (2.15155e-39,1.11075e-39)  by summing: (1.91819e-39,1.07566e-39)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.129; (2.53,0.55); (-1.63,0.80)
+Data maximum likelihood:
+  One component model= 1.35437e-44
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (1.55041e-43,2.48089e-38)  by summing: (1.56681e-43,2.1363e-38)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.021; (1.07,0.74); (-1.71,0.63)
+Data maximum likelihood:
+  One component model= 1.06459e-27
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (1.42635e-28,7.08359e-29)  by summing: (1.27756e-28,8.32746e-29)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.877; (5.89,358.45); (0.94,0.63)
+Data maximum likelihood:
+  One component model= 1.02402e-276
+  Two component model= 0
+  One component model favored by Maximum Likelihood
+Integrals by sampling= (7.84388e-163,1.88877e-154)  by summing: (0,0)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.424; (3.47,0.98); (-8.14,2.77)
+Data maximum likelihood:
+  One component model= 2.02929e-100
+  Two component model= 5.93597e-88
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (1.4132e-73,5.25e-63)  by summing: (4.64864e-74,3.7454e-64)
+
+generating data with:  m; (μ1,σ1); (μ2,σ2) =  0.498; (7.12,1.59); (12.09,1.48)
+Data maximum likelihood:
+  One component model= 5.87619e-68
+  Two component model= 1.17952e-67
+  Two component model favored by Maximum Likelihood
+Integrals by sampling= (4.6591e-58,1.31746e-58)  by summing: (1.61693e-66,3.2008e-67)
+
+By sampling: Model1 data, correct selection 9/10
+             Model2 data, correct selection 5/10
+By summing:  Model1 data, correct selection 7/10
+             Model2 data, correct selection 7/10
